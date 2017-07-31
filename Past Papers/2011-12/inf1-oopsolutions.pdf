@@ -1,0 +1,1098 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 34 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 35 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 36 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 40 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R15': class PDFCatalog 
+15 0 obj
+% Document Root
+<< /Outlines 17 0 R
+ /PageLabels 43 0 R
+ /PageMode /UseNone
+ /Pages 33 0 R
+ /Type /Catalog >>
+endobj
+% 'R16': class PDFInfo 
+16 0 obj
+<< /Author ()
+ /CreationDate (D:20120430133745+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Inf1 OOP Main Exam: Sample Solutions) >>
+endobj
+% 'R17': class PDFOutlines 
+17 0 obj
+<< /Count 19
+ /First 18 0 R
+ /Last 31 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+18 0 obj
+<< /Count 4
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 575.0236
+ 0 ]
+ /First 19 0 R
+ /Last 22 0 R
+ /Next 23 0 R
+ /Parent 17 0 R
+ /Title (Question 1 Solutions) >>
+endobj
+% 'Outline.16.0': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 500.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 18 0 R
+ /Title (OneA.java) >>
+endobj
+% 'Outline.16.1': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 18 0 R
+ /Prev 19 0 R
+ /Title (OneB.java) >>
+endobj
+% 'Outline.16.2': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 22 0 R
+ /Parent 18 0 R
+ /Prev 20 0 R
+ /Title (OneC.java) >>
+endobj
+% 'Outline.16.3': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 703.8236
+ 0 ]
+ /Parent 18 0 R
+ /Prev 21 0 R
+ /Title (QuestionOneTester.java) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+23 0 obj
+<< /Count 3
+ /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 631.8236
+ 0 ]
+ /First 24 0 R
+ /Last 26 0 R
+ /Next 27 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
+ /Title (Question 1 Supplied Files) >>
+endobj
+% 'Outline.17.0': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 580.8236
+ 0 ]
+ /Next 25 0 R
+ /Parent 23 0 R
+ /Title (OneA.java) >>
+endobj
+% 'Outline.17.1': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 421.6236
+ 0 ]
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
+ /Title (OneB.java) >>
+endobj
+% 'Outline.17.2': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 23 0 R
+ /Prev 25 0 R
+ /Title (OneC.java) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+27 0 obj
+<< /Count 3
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 28 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 17 0 R
+ /Prev 23 0 R
+ /Title (Question 2 Solutions) >>
+endobj
+% 'Outline.18.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (Expr.java) >>
+endobj
+% 'Outline.18.1': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Var.java) >>
+endobj
+% 'Outline.18.2': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 27 0 R
+ /Prev 29 0 R
+ /Title (BinaryExpr.java) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+31 0 obj
+<< /Count 1
+ /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 703.8236
+ 0 ]
+ /First 32 0 R
+ /Last 32 0 R
+ /Parent 17 0 R
+ /Prev 27 0 R
+ /Title (Question 2 Supplied files) >>
+endobj
+% 'Outline.19.0': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 670.8236
+ 0 ]
+ /Parent 31 0 R
+ /Title (Op.java) >>
+endobj
+% 'R33': class PDFPages 
+33 0 obj
+% page tree
+<< /Count 9
+ /Kids [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Type /Pages >>
+endobj
+% 'R34': class PDFStream 
+34 0 obj
+% page stream
+<< /Length 3372 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 47.11488 0 Td (Inf1 OOP Main Exam: Sample Solutions) Tj T* -47.11488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.001235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Given the limited nature of the tasks in these questions, it is difficult for students to demonstrate) Tj T* 0 Tw .756651 Tw (excellence over and above giving correct answers. Therefore, in general a set of answers that produces) Tj T* 0 Tw (the correct results will receive full marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.372485 Tw (Answers which fail to produce correct results will still be given partial credit, according to the following) Tj T* 0 Tw (guidelines:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 635.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.141098 Tw (If there appears to be a good understanding of the logic of the task, but there are minor syntactic) Tj T* 0 Tw (errors, then 25% will be deducted from the marks available.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+Q
+q
+1 0 0 1 62.69291 605.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.844198 Tw (If there is a significant error in the logic of the task, then 50% will be deducted from the marks) Tj T* 0 Tw (available.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 605.0236 cm
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Obviously, these penalties will be adjusted according to the severity of the problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Question 1 Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .08104 Tw 12 TL /F1 10 Tf 0 0 0 rg (In some of the questions, and the sample solutions, the variable ) Tj /F3 10 Tf (N ) Tj /F1 10 Tf (is used to indicate the length of arrays.) Tj T* 0 Tw .15186 Tw (Although not standard practice in Java, this follows the convention used in the course textbook \(and some) Tj T* 0 Tw (of the lectures\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneA.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 268.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 204 re B*
+Q
+q
+BT 1 0 0 1 0 182 Tm 12 TL /F3 10 Tf 0 0 0 rg (public class OneA {) Tj T*  T* (    public static int prodOfPairs\(int[] nums\) {) Tj T* (        int sum = 0;) Tj T* (        if \(nums.length % 2 != 0\)) Tj T* (            return -1;) Tj T* (        for \(int i = 0; i ) Tj (<) Tj ( nums.length - 1; i = i + 2\) {) Tj T* (            int prod = nums[i] * nums[i + 1];) Tj T* (            sum += prod;) Tj T* (        }) Tj T* (        return sum;) Tj T* (    }) Tj T*  T* ( ) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R35': class PDFStream 
+35 0 obj
+% page stream
+<< /Length 889 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneB.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 180 re B*
+Q
+q
+BT 1 0 0 1 0 158 Tm 12 TL /F3 10 Tf 0 0 0 rg (public class OneB {) Tj T*  T* (    public static double meanColSums\(int[][] matrix\) {) Tj T* (        double sum = 0.0;) Tj T* (        int rowLength = matrix[0].length;) Tj T* (        for \(int i = 0; i ) Tj (<) Tj ( rowLength; i++\) {) Tj T* (            for \(int j = 0; j ) Tj (<) Tj ( matrix.length; j++\) {) Tj T* (                sum += matrix[j][i];) Tj T* (            }) Tj T* (        }) Tj T* (        sum /= rowLength;) Tj T* (        return sum;) Tj T* (    } ) Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R36': class PDFStream 
+36 0 obj
+% page stream
+<< /Length 2403 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneC.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 660 re B*
+Q
+q
+BT 1 0 0 1 0 638 Tm 12 TL /F3 10 Tf 0 0 0 rg (import java.util.ArrayList;) Tj T*  T* (public class OneC {) Tj T*  T* (    public static int hammingDist\(String left, String right\) {) Tj T* (        int diffs = 0;) Tj T*  T* (        for \(int i = 0; i ) Tj (<) Tj ( left.length\(\); i++\) {) Tj T* (            if \(left.charAt\(i\) != right.charAt\(i\)\)) Tj T* (                diffs++;) Tj T* (        }) Tj T* (        return diffs;) Tj T* (    }) Tj T*  T* (    public static String findFarthest\(String s, String[] targets\) {) Tj T* (        String farthest = s;) Tj T* (        int dist = 0;) Tj T* (        for \(String t : targets\) {) Tj T* (            int d = hammingDist\(s, t\);) Tj T* (            if \(d ) Tj (>) Tj ( dist\) {) Tj T* (                dist = d;) Tj T* (                farthest = t;) Tj T* (            }) Tj T* (        }) Tj T* (        return farthest;) Tj T* (    }) Tj T*  T* (    public static ArrayList) Tj (<) Tj (String) Tj (>) Tj ( findNearestK\(String s, String[] targets,) Tj T* (            int k\) {) Tj T* (        ArrayList) Tj (<) Tj (String) Tj (>) Tj ( cluster = new ArrayList) Tj (<) Tj (String) Tj (>) Tj (\(\);) Tj T* (        for \(String t : targets\) {) Tj T* (            int d = hammingDist\(s, t\);) Tj T* (          ) Tj T* (            if \(d ) Tj (<) Tj (= k\) {) Tj T* (                cluster.add\(t\);) Tj T* (            }) Tj T* (        }) Tj T* (        return cluster;) Tj T* (    }) Tj T*  T* (    public static int stringDist\(String left, String right\) {) Tj T* (        int penalty = 0;) Tj T* (        int llen = left.length\(\);) Tj T* (        int rlen = right.length\(\);) Tj T* (        if \(rlen ) Tj (>) Tj ( llen\) {) Tj T* (            right = right.substring\(0, llen\);) Tj T* (            penalty = rlen - llen;) Tj T* (        }) Tj T* (        if \(llen ) Tj (>) Tj ( rlen\) {) Tj T* (            left = left.substring\(0, rlen\);) Tj T* (            penalty = llen - rlen;) Tj T* (        }) Tj T*  T* (        return hammingDist\(left, right\) + penalty;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 2208 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 0 rg (    }) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 685.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (QuestionOneTester.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 643.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .568221 Tw 12 TL /F1 10 Tf 0 0 0 rg (The main rationale for this question is to encourage students to budget some time for testing. They have) Tj T* 0 Tw 3.025318 Tw (seen many examples of testing code which runs some methods inside ) Tj /F3 10 Tf (main\(\)) Tj /F1 10 Tf (. If they have two) Tj T* 0 Tw (reasonable-looking calls for each of their three methods, they will receive full marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Question 1 Supplied Files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 592.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following skeleton and data files are provided to the students.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 562.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneA.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F3 10 Tf 12 TL (public class OneA {) Tj T*  T* (    public static int prodOfPairs\(int[] nums\) {) Tj T* (        // ADD CODE HERE  ) Tj T* (    }) Tj T*  T* ( ) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 403.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneB.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 310.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F3 10 Tf 12 TL (public class OneB {) Tj T*  T* (    public static double meanColSums\(int[][] matrix\) {) Tj T* (        // ADD CODE HERE  ) Tj T* (    } ) Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 1074 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (OneC.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 288 re B*
+Q
+q
+BT 1 0 0 1 0 266 Tm 12 TL /F3 10 Tf 0 0 0 rg (import java.util.ArrayList;) Tj T* (import java.util.Arrays;) Tj T*  T* (public class OneC {) Tj T*  T* (    public static int hammingDist\(String left, String right\) {) Tj T* (        // ADD CODE HERE) Tj T* (    }) Tj T*  T* (    public static String findFarthest\(String s, String[] targets\) {) Tj T* (        // ADD CODE HERE) Tj T* (    }) Tj T*  T* (    public static ArrayList) Tj (<) Tj (String) Tj (>) Tj ( findNearestK\(String s, String[] targets,) Tj T* (            int k\) {) Tj T* (        // ADD CODE HERE) Tj T* (    }) Tj T*  T* (    public static int stringDist\(String left, String right\) {) Tj T* (        // ADD CODE HERE) Tj T* (    }) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 1059 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Question 2 Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (Expr.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 336 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 314 Tm /F3 10 Tf 12 TL (public abstract class Expr {) Tj T*  T* (    ) Tj T* (    public abstract boolean isTerm\(\);) Tj T* (    ) Tj T* (    public abstract boolean isNorm\(\);) Tj T* (    ) Tj T* (    public Expr getLeft\(\) {) Tj T* (        return null;) Tj T* (    }) Tj T*  T* (    public Expr getRight\(\) {) Tj T* (        return null;) Tj T* (    }) Tj T*  T* (    public Op getOp\(\) {) Tj T* (        return null;) Tj T* (    }) Tj T*  T* (  ) Tj T* (    public Expr normalize\(\) {) Tj T* (        return this;) Tj T* (    }) Tj T*  T*  T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R40': class PDFStream 
+40 0 obj
+% page stream
+<< /Length 967 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (Var.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 324 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 302 Tm /F3 10 Tf 12 TL (public class Var extends Expr {) Tj T* (       ) Tj T* (    String symbol;  ) Tj T*  T* (    public Var\(String symbol\) {) Tj T* (        this.symbol = symbol;) Tj T* (//        setTerm\(true\);) Tj T* (//        setNorm\(true\);) Tj T* (    }) Tj T* (    ) Tj T* (    public boolean isTerm\(\){) Tj T* (        return true;) Tj T* (    }) Tj T* (    ) Tj T* (    public boolean isNorm\(\){) Tj T* (        return true;) Tj T* (    }) Tj T*  T*  T* (    public String toString\(\) {) Tj T* (        return symbol;) Tj T* (    }) Tj T* (    ) Tj T* (  ) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 2564 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (BinaryExpr.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.75931 cm
+q
+q
+.941286 0 0 .941286 0 0 cm
+q
+1 0 0 1 6.6 7.011687 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 498 696 re B*
+Q
+q
+BT 1 0 0 1 0 674 Tm 12 TL /F3 10 Tf 0 0 0 rg (    public class BinaryExpr extends Expr {) Tj T*  T* (    private Expr left;) Tj T* (    private Expr right;) Tj T* (    private Op op;) Tj T*  T* (    public BinaryExpr\(Expr left, Op op, Expr right\) {) Tj T* (        this.left = left;) Tj T* (        this.right = right;) Tj T* (        this.op = op;) Tj T* (    }) Tj T*  T* (    public Expr getLeft\(\) {) Tj T* (        return left;) Tj T* (    }) Tj T*  T* (    public Expr getRight\(\) {) Tj T* (        return right;) Tj T* (    }) Tj T*  T* (    public Op getOp\(\) {) Tj T* (        return op;) Tj T* (    }) Tj T*  T* (    public boolean isTerm\(\) {) Tj T* (        return left.isTerm\(\) ) Tj (&) Tj (&) Tj ( op == Op.PRODUCT ) Tj (&) Tj (&) Tj ( right.isTerm\(\);) Tj T* (    }) Tj T*  T* (    public boolean isNorm\(\) {) Tj T* (        boolean b1 = this.isTerm\(\);) Tj T* (        boolean b2 = left.isNorm\(\) ) Tj (&) Tj (&) Tj ( op == Op.SUM ) Tj (&) Tj (&) Tj ( right.isNorm\(\);) Tj T* (        return b1 || b2;) Tj T* (    }) Tj T*  T* (    //@Override) Tj T* (    public Expr normalize\(\) {) Tj T* (        ) Tj T* (        if \(op == Op.PRODUCT ) Tj (&) Tj (&) Tj ( left != null\) {) Tj T* (            if \(left.getOp\(\) == Op.SUM\) {) Tj T* (                BinaryExpr l = new BinaryExpr\(left.getLeft\(\), Op.PRODUCT, right\);) Tj T* (                BinaryExpr r = new BinaryExpr\(left.getRight\(\), Op.PRODUCT,) Tj T* (                        right\);) Tj T* (                return new BinaryExpr\(l.normalize\(\), Op.SUM, r.normalize\(\)\);) Tj T* (            }) Tj T* (            if \(right.getOp\(\) == Op.SUM\) {) Tj T* (                BinaryExpr l = new BinaryExpr\(left, Op.PRODUCT, right.getLeft\(\)\);) Tj T* (                BinaryExpr r = new BinaryExpr\(left, Op.PRODUCT,) Tj T* (                        right.getRight\(\)\);) Tj T* (                return new BinaryExpr\(l.normalize\(\), Op.SUM, r.normalize\(\)\);) Tj T* (            }) Tj T* (        }) Tj T* (        return this;) Tj T* (    }) Tj T*  T* (    public String toString\(\) {) Tj T* (        String s = String.format\("\(%s %s %s\)", left, op, right\);) Tj T* (        return s;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 1101 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 0 rg (    }) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 682.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Question 2 Supplied files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F4 15 Tf 0 0 0 rg (Op.java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 451.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 192 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 170 Tm /F3 10 Tf 12 TL (public enum Op {) Tj T*  T* (    SUM {) Tj T* (        public String toString\(\) {) Tj T* (            return "+";) Tj T* (        }) Tj T* (    },) Tj T* (    ) Tj T* (    PRODUCT {) Tj T* (        public String toString\(\) {) Tj T* (            return "*";) Tj T* (        }) Tj T* (    };) Tj T*  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R43': class PDFPageLabels 
+43 0 obj
+% Document Root
+<< /Nums [ 0
+ 44 0 R
+ 1
+ 45 0 R
+ 2
+ 46 0 R
+ 3
+ 47 0 R
+ 4
+ 48 0 R
+ 5
+ 49 0 R
+ 6
+ 50 0 R
+ 7
+ 51 0 R
+ 8
+ 52 0 R ] >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R46': class PDFPageLabel 
+46 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R47': class PDFPageLabel 
+47 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R48': class PDFPageLabel 
+48 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R49': class PDFPageLabel 
+49 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R50': class PDFPageLabel 
+50 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R51': class PDFPageLabel 
+51 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R52': class PDFPageLabel 
+52 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+xref
+0 53
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000746 00000 n
+0000000915 00000 n
+0000001194 00000 n
+0000001473 00000 n
+0000001752 00000 n
+0000002031 00000 n
+0000002311 00000 n
+0000002591 00000 n
+0000002871 00000 n
+0000003151 00000 n
+0000003432 00000 n
+0000003591 00000 n
+0000003875 00000 n
+0000004001 00000 n
+0000004226 00000 n
+0000004398 00000 n
+0000004585 00000 n
+0000004772 00000 n
+0000004954 00000 n
+0000005199 00000 n
+0000005371 00000 n
+0000005558 00000 n
+0000005728 00000 n
+0000005969 00000 n
+0000006142 00000 n
+0000006329 00000 n
+0000006505 00000 n
+0000006736 00000 n
+0000006873 00000 n
+0000007049 00000 n
+0000010520 00000 n
+0000011507 00000 n
+0000014009 00000 n
+0000016316 00000 n
+0000017489 00000 n
+0000018647 00000 n
+0000019712 00000 n
+0000022375 00000 n
+0000023579 00000 n
+0000023776 00000 n
+0000023853 00000 n
+0000023930 00000 n
+0000024007 00000 n
+0000024084 00000 n
+0000024161 00000 n
+0000024238 00000 n
+0000024315 00000 n
+0000024392 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\215\243R\255\036\366\233\037\252\317m\356\332"F2) (\215\243R\255\036\366\233\037\252\317m\356\332"F2)] 
+
+ /Info 16 0 R
+ /Root 15 0 R
+ /Size 53 >>
+startxref
+24439
+%%EOF
