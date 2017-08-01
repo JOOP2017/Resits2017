@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Beads {
 
-	public static Set<Integer> allSums(ArrayList<Integer> beads) {
+	public static HashSet<Integer> allSums(ArrayList<Integer> beads) {
 		HashSet<Integer> nums = new HashSet<Integer>();
 		if (beads.size() == 0){
 			return nums;
@@ -13,7 +13,7 @@ public class Beads {
 		return nums;
 	}
 
-	public static Set<Integer> sums(final ArrayList<Integer> beads, int n) {
+	public static HashSet<Integer> sums(final ArrayList<Integer> beads, int n) {
 		HashSet<Integer> sums = new HashSet<Integer>();
 		int lengthofArrayList = beads.size();
 		if (n < 1 || lengthofArrayList == 0){
@@ -46,8 +46,15 @@ public class Beads {
 		}
 
 	public static void main(String args[]) {
-		// TODO Auto-generated method stub
+		ArrayList<Integer> lines = new ArrayList<Integer>(args.length);
+		for (int i = 0; i <  args.length; i++){
+			lines.add(Integer.parseInt(args[i]));
+		}
 		
+		HashSet<Integer> yaldi = new HashSet<Integer>();
+		yaldi = allSums(lines);
+		int maximus = findMax(yaldi);
+		System.out.print(maximus);
 	}
 
 }
