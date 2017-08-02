@@ -31,7 +31,7 @@ public class UG1Student extends Student {
 	public String toString(){
 		String name = super.toString();
 		char s = mainSchedule;
-		String mainie = "Main Schedule " + s +" courses:";
+		String mainie = "Main schedule " + s +" courses:";
 		Course[] t = this.getCourses();
 		String output = name + "\n" + mainie;
 		for (int i = 0; i < t.length; i++){
@@ -44,6 +44,8 @@ public class UG1Student extends Student {
 		UG1Student x = new UG1Student("James", "342", 'O');
 		Course y = new Course();
 		x.addCourse(y);
+		Course z = new Course("Mathematics", 'O', 8);
+		x.addCourse(z);
 		String Yammy = x.toString();
 		System.out.print(Yammy);
 		
