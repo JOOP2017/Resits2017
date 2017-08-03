@@ -56,9 +56,13 @@ public class Rabbit {
 	}
 
 	public static void main(String[] args) {
-		Rabbit test = new Rabbit(20);
+		int input = Integer.parseInt(args[0]);
+		Rabbit test = new Rabbit(input);
 		test.init();
-		System.out.print(test.subsequenceIndex(new Integer[]{1,1,0,0,0}));
+		System.out.println(test.toString());
+		System.out.println(test.subsequenceIndex(new Integer[]{1,1,0}));
+		System.out.print(test.subsequenceIndex(new Integer[]{1,1,0}));
+		
 		
 	}
 
