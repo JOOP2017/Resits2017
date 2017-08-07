@@ -1,6 +1,37 @@
 import java.util.*;
 
 public class Beads {
+	
+	public static Set<Integer> sums(ArrayList<Integer> beads,int n)
+	{
+		if(n<1)
+		{
+			Set<Integer> result = new HashSet<Integer>();
+			
+			
+		return result;
+			
+		}
+		else
+		{   Set<Integer> finalList = new HashSet<Integer>(); 
+			for(int i=0;i<beads.size();i++)
+			{
+				int count = n; int sum = beads.get(i);
+				int pos = i;
+				while(count>1)
+				{
+					pos = (pos+1)%beads.size();
+					count = count-1;
+					sum += beads.get(pos);
+				}
+				finalList.add(sum);
+				
+			}
+		
+			return finalList;
+		}
+		
+}
 
 	public static HashSet<Integer> allSums(ArrayList<Integer> beads) {
 		HashSet<Integer> nums = new HashSet<Integer>();
@@ -13,7 +44,7 @@ public class Beads {
 		return nums;
 	}
 
-	public static Set<Integer> allSums(ArrayList<Integer> beads)
+	/*public static Set<Integer> allSums(ArrayList<Integer> beads)
 	{
 		if(beads.size()<1)                                                                                                         
 		{
@@ -35,7 +66,7 @@ public class Beads {
 			}
 			return finalList;
 		}
-	}
+	}*/
 
 	public static int findMax(Set<Integer> beads) {
 		int max = 0;
